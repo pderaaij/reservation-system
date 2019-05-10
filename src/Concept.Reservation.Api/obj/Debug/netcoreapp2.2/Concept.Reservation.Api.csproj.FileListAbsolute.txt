@@ -1,0 +1,17 @@
+/Users/p.deraaij/projects/reservation-system/src/Concept.Reservation.Api/obj/Debug/netcoreapp2.2/Concept.Reservation.Api.csprojAssemblyReference.cache
+/Users/p.deraaij/projects/reservation-system/src/Concept.Reservation.Api/obj/Debug/netcoreapp2.2/Concept.Reservation.Api.csproj.CoreCompileInputs.cache
+/Users/p.deraaij/projects/reservation-system/src/Concept.Reservation.Api/obj/Debug/netcoreapp2.2/Concept.Reservation.Api.RazorAssemblyInfo.cache
+/Users/p.deraaij/projects/reservation-system/src/Concept.Reservation.Api/obj/Debug/netcoreapp2.2/Concept.Reservation.Api.RazorAssemblyInfo.cs
+/Users/p.deraaij/projects/reservation-system/src/Concept.Reservation.Api/obj/Debug/netcoreapp2.2/Concept.Reservation.Api.AssemblyInfoInputs.cache
+/Users/p.deraaij/projects/reservation-system/src/Concept.Reservation.Api/obj/Debug/netcoreapp2.2/Concept.Reservation.Api.AssemblyInfo.cs
+/Users/p.deraaij/projects/reservation-system/src/Concept.Reservation.Api/bin/Debug/netcoreapp2.2/Concept.Reservation.Api.deps.json
+/Users/p.deraaij/projects/reservation-system/src/Concept.Reservation.Api/bin/Debug/netcoreapp2.2/Concept.Reservation.Api.runtimeconfig.json
+/Users/p.deraaij/projects/reservation-system/src/Concept.Reservation.Api/bin/Debug/netcoreapp2.2/Concept.Reservation.Api.runtimeconfig.dev.json
+/Users/p.deraaij/projects/reservation-system/src/Concept.Reservation.Api/bin/Debug/netcoreapp2.2/Concept.Reservation.Api.dll
+/Users/p.deraaij/projects/reservation-system/src/Concept.Reservation.Api/bin/Debug/netcoreapp2.2/Concept.Reservation.Api.pdb
+/Users/p.deraaij/projects/reservation-system/src/Concept.Reservation.Api/bin/Debug/netcoreapp2.2/Concept.Reservation.Domain.dll
+/Users/p.deraaij/projects/reservation-system/src/Concept.Reservation.Api/bin/Debug/netcoreapp2.2/Concept.Reservation.Domain.pdb
+/Users/p.deraaij/projects/reservation-system/src/Concept.Reservation.Api/obj/Debug/netcoreapp2.2/Concept.Reservation.Api.RazorTargetAssemblyInfo.cache
+/Users/p.deraaij/projects/reservation-system/src/Concept.Reservation.Api/obj/Debug/netcoreapp2.2/Concept.Reservation.Api.csproj.CopyComplete
+/Users/p.deraaij/projects/reservation-system/src/Concept.Reservation.Api/obj/Debug/netcoreapp2.2/Concept.Reservation.Api.dll
+/Users/p.deraaij/projects/reservation-system/src/Concept.Reservation.Api/obj/Debug/netcoreapp2.2/Concept.Reservation.Api.pdb

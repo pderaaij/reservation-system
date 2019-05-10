@@ -1,0 +1,9 @@
+/Users/p.deraaij/projects/reservation-system/src/Concept.Reservation.Domain/bin/Debug/netstandard2.0/Concept.Reservation.Domain.deps.json
+/Users/p.deraaij/projects/reservation-system/src/Concept.Reservation.Domain/bin/Debug/netstandard2.0/Concept.Reservation.Domain.dll
+/Users/p.deraaij/projects/reservation-system/src/Concept.Reservation.Domain/bin/Debug/netstandard2.0/Concept.Reservation.Domain.pdb
+/Users/p.deraaij/projects/reservation-system/src/Concept.Reservation.Domain/obj/Debug/netstandard2.0/Concept.Reservation.Domain.csprojAssemblyReference.cache
+/Users/p.deraaij/projects/reservation-system/src/Concept.Reservation.Domain/obj/Debug/netstandard2.0/Concept.Reservation.Domain.csproj.CoreCompileInputs.cache
+/Users/p.deraaij/projects/reservation-system/src/Concept.Reservation.Domain/obj/Debug/netstandard2.0/Concept.Reservation.Domain.AssemblyInfoInputs.cache
+/Users/p.deraaij/projects/reservation-system/src/Concept.Reservation.Domain/obj/Debug/netstandard2.0/Concept.Reservation.Domain.AssemblyInfo.cs
+/Users/p.deraaij/projects/reservation-system/src/Concept.Reservation.Domain/obj/Debug/netstandard2.0/Concept.Reservation.Domain.dll
+/Users/p.deraaij/projects/reservation-system/src/Concept.Reservation.Domain/obj/Debug/netstandard2.0/Concept.Reservation.Domain.pdb
